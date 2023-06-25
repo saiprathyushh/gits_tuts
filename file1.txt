@@ -9,3 +9,10 @@ git push -u origin master
 
 -> to add link from local to the remote repo:
 git remote add origin <url>
+
+->while you have created for first time a local branch while pushing then you have to set an upstream for that local branch 
+ ex:  git push --set-upstream origin copy2
+  from next time onwards if you want to push any files from that specific branch just git push is enough as it already knows its paremt branch !
+
+
+ -> 
