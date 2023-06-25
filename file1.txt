@@ -1,0 +1,7 @@
+hloo..my name is sai Prathyush.I am learning git tutorial .this  is first file og git tutorial.
+
+working directory  --> staging area -> local repository ->remote repository
+
+-> from working directory to the staging area(add) ,only single file can be sent at a time ,but whereas from staging to local(commit) or local to remote (push) all batch of files present in the source file can be sent at a time !
+
+-> 
